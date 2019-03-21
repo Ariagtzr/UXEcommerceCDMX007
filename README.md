@@ -19,9 +19,11 @@
 - [Millennials](#millennials)
 - [Etapa Descriptiva](#etapa-descriptiva)
 - [Definición del público objetivo](#definicion-del-público-objetivo)
-- [](#)
-- [Definición de producto](#definición-de-producto)
-- [Contenidos](#contenidos)
+- [Etapa de recolección y análisis de datos](#etapa-de-recolección-y-análisis-de-datos)
+- [Etapa de solución/Definición de producto](#definición-de-producto)
+- [Conclusiones](#conclusiones)
+- [Bibliografía](#bibliografía)
+
 
 
 ## Resumen del proyecto 
@@ -117,7 +119,7 @@ En la actualidad, la cultura financiera así como la educación en general es un
 En la presente investigación, se pretenden describir y analizar los datos que demuestran el nivel de cultura financiera en una muestra de 37 encuestas a jóvenes de entre 22 a 37 años y 5 entrevistas a profundidad a jóvenes millennial que cuenten con las características que buscamos , para de esta manera conocer un tema que si bien es relevante, no ha sido investigado con este enfoque para la creación de un canal de youtube que informe a los jóvenes. De acuerdo a los resultados obtenidos en esta investigación, describiremos de manera objetiva y con certidumbre los insigths que nos dirán cómo abordar a nuestro usuario, que lenguaje utilizar y con que plataformas está generación se identifica más. Los resultados obtenidos permitirán hacer inferencias y procesos deductivos que lleven también al punto de poder generar conclusiones y las posteriores recomendaciones, además de contribuir a generar información de un tema poco abordado y explorado en la actualidad.
 
 
-## Método de investigacién 
+## Método de investigación 
 
 Se utiliza el método de investigación con enfoque cualitativo que según el libro de Metodología de la Investigación de R. Hernández Sampieri, “utiliza la recolección de datos sin medición numérica para descubrir o afinar preguntas de investigación en el proceso de interpretación” ,para llevar a cabo el proyecto se registraron las siguientes etapas:
 
@@ -206,17 +208,6 @@ Para poder delimitar nuestra audiencia tuvimos que generar un benchmark a nuestr
 ![stalker](http://i67.tinypic.com/316kfns.jpg)
 
 Con estos datos nos dimos cuenta que efectivamente lo que los usuarios buscan en el contenido de Youtube es que sean divertido o entretenido, que sean un ejemplo a seguir y que su contenido sea muy original. Por lo cual se tiene un ejemplo a seguir para el tioo de contenido que estamos buscando este personaje es más cómico y genera expectativa con sus videos tan diferenciadores queriendo atacar un problema como es la falta de educación financiera en Colombia. 
-
--**Lenguaje**
-
-Para nosotras Laura ya tiene ciertas características de su personalidad, la cual la hace ser única:
-- Es sincera
-- Es directa y sin tapujos
-- Le gustan los memes
-- Es emotiva
-- Empática
-
-
 
 
 ### Marco teórico
@@ -342,31 +333,70 @@ Después se realizó una encuesta para conocer el entorno y en ella estábamos b
 
 Destacaremos de la investigación realizada de las encuestas que obtuvimos de 32 personas sólo 23 personas que recibían el salario de $6,000 a $20,000 MXN de los cuales eran 9 hombres y 15 mujeres, las personalidades de hombres y mujeres que empataron las respuestas fueron del tipo boss babes y la de viajeros entusiastas. Eso quiere decir que estamos lidiando con jóvenes que muestran desinterés con respecto a su futuro financiero y que prefieren visualizar experiencias a corto plazo también, son personas que le dan importancia a su carrera profesional, son ambiciosos y que al estar obteniendo ingresos que normalmente no manejaban ahora no saben cómo administrarlo.
 
+##Etapa de recolección y análisis de datos.
+
+En esta etapa de la investigación logramos realizar encuestas a 34 millennials que nos apoyaron a consultar el entorno. Aquí están las preguntas y respuestas:
+![encuesta](https://i.ibb.co/rpQbTJ4/e1.jpg)
+![encuesta](https://i.ibb.co/fXGPkr6/e2.jpg)
+![encuesta](https://i.ibb.co/Sv5dc48/e3.jpg)
+![encuesta](https://i.ibb.co/QHRGcbZ/e4.jpg)
+![encuesta](https://i.ibb.co/yXswBPT/e5.jpg)
+![encuesta](https://i.ibb.co/tXGjhS3/e6.jpg)
+![encuesta](https://i.ibb.co/Qpnfwzf/e7.jpg)
+![encuesta](https://i.ibb.co/LCpL9Tx/e8.jpg)
+![encuesta](https://i.ibb.co/hsfnjnb/e9.jpg)
+![encuesta](https://i.ibb.co/N1G9FB7/e10.jpg)
+![encuesta](https://i.ibb.co/RQBTpj7/e11.jpg)
+![encuesta](https://i.ibb.co/wpGDqnp/e12.jpg)
+![encuesta](https://i.ibb.co/8Y02Z64/e13.jpg)
+![encuesta](https://i.ibb.co/Bn9BXMr/e14.jpg)
+![encuesta](https://i.ibb.co/qLGK67n/e15.jpg)
+![encuesta](https://i.ibb.co/XXyCsJc/e16.jpg)
+![encuesta](https://i.ibb.co/4jBy6Sk/E17.jpg)
+![encuesta](https://i.ibb.co/hRjR88m/e18.jpg)
+![encuesta](https://i.ibb.co/4mBFWhw/e19.jpg)
+![encuesta](https://i.ibb.co/Br03XKm/e20.jpg)
+![encuesta](https://i.ibb.co/CHH4MRr/e21.jpg)
+![encuesta](https://i.ibb.co/mNxfJtQ/e22.jpg)
+![encuesta](https://i.ibb.co/0QsxMwR/e23.jpg)
+![encuesta](https://i.ibb.co/tDLTvp5/e24.jpg)
+
+De estas encuestas nos surgieron los insights que mencionamos anteriormente y que también logramos hacer una infografía para que se acotaran las respuestas y se logrará tener lo más importante.
+
+![infografía](https://i.ibb.co/drvNqyc/millennials.png)
+
 ## Definición del producto
 
-La propuesta del producto es la siguiente:
+**La propuesta del producto es la siguiente:**
 
 Conforme a la investigación que hicimos tanto teórica, como con los usuarios, pudimos detectar 4 áreas para la definición del producto.
 
-Primera: Personalidad del canal
+**Primera:** Personalidad del canal
 La personalidad del canal tendrá la personalidad de nuestra clienta, ya que ella será la principal protagonista de este.
 Será un canal, divertido, directo, extrovertido, entretenido, constante y juvenil
 
 
-Segunda: El tipo de lenguaje que se va a utilizar 
-El lenguaje será Sencillo, interactivo, con sentido del humor, empático, inclusivo, con palabras usadas por los millenians
+**Segunda:** El tipo de lenguaje que se va a utilizar 
+El lenguaje será Sencillo, interactivo, con sentido del humor, empático, inclusivo, con palabras usadas por los millenians.
+
+Para nosotras Laura ya tiene ciertas características de su personalidad, la cual la hace ser única:
+- Es sincera
+- Es directa y sin tapujos
+- Le gustan los memes
+- Es emotiva
+- Empática
+
+ ![lenguaje](http://i66.tinypic.com/ws9yc3.jpg)
  
- IMAGEN DE LENGUAJE DEL CANAL
- 
-Tercero: Capitalización del canal
+**Tercero:** Capitalización del canal
 Existen dos opciones de capitalización del canal, el perimero sería a través de CROWDFUNDING, donde recibes dinero de personas que se han identificado con tu proyecto o contigo mismo, por lo que se debe fondear al 100%, en caso contrario, se le devolverá el dinero a los fondeadores.
 Es recomendable dar alguna recompensa a las personas que te ayudaron a fondear tu proyecto y darles una muy buena calidad de información, ya que ellos confían plenamente en la persona que lleva a cabo ek canal por el que apostaron
 
 La segunda opción es a través del PATROCINIO, en donde tu producto debe atraer a las marcas de manera que al contatarlas ellos se intereses, para querer tener presencia dentro de tu producto. 
  
- IMAGEN DE MAPA DE CAPITALIZACION
+ ![capitalizacion](http://i66.tinypic.com/ws9yc3.jpg)
  
- Cuarta: Modelo de negocio
+ **Cuarta:** Modelo de negocio
  Un modelo de negocio a parte, de la capitaliación, incluye la MONETIZACIÓN
  La monetización de un canal de Yotube comienza a darse al tener:
  -4000 horas de tiempo de reproducción en los últimos 12 meses
@@ -375,23 +405,41 @@ La segunda opción es a través del PATROCINIO, en donde tu producto debe atraer
  - Crear una cuenta AdSense, donde se te permite meter anuncios de algún anunciante que quiera promocionarse en tu sitio web
  - Necesitas ser aprobado por youtube
 
-
-
 Para poder atraer mas gente al canal, existen distintos métodos, uno de ellos es GAMNIFICATION, donde se trata de incentivar a los usuarios de distintas maneras, por ejemplo:
 - Cupones de descuento
 - Productos gratuitos 
 - Gastos de envío gratis etc
 
-IMAGEN DE GAMNIFICATION
-
-
-
+![gamification](http://i64.tinypic.com/6ol6cj.jpg)
 
 Otro método sería PAGAR POR ANUNCIOS EN YOUTUBE
 Pagar por anuncios en Youtube a través de Google ads
 
-IMAGENES DE ANUNCIOS
+![anuncios](http://i66.tinypic.com/29xvynr.jpg)
+![anuncios](http://i63.tinypic.com/mmeydc.jpg)
+![anuncios](http://i64.tinypic.com/11hrmn7.jpg)
+
+Nuestro board con todos los canvan y herramientas que realizamos se encuentra Aquí:[boards](https://realtimeboard.com/app/board/o9J_kyYoS1E=/) 
 
 
-## Construido con
+## Conclusiones
+
+Como conclusiones logramos para Laura tener claro el porque los millennials no han tenido alguna motivación, ya que ellos sólo son atraídos hacia este tipo de información con gente cercana o de confianza y cuando no existe este tipo de vínculo, únicamente se limitan a preocuparse al respecto. Por ello el lenguaje tiene que ser cotidiano que emerja la confianza entre los usuarios del canal y que se sientan tranquilos porque alguien como ellos ya paso por la misma experiencia que ellos y la solución que les dará será siempre para su beneficio. Los temas que más les interesa a este tipo de generación son el ahorro en específico en relación con calendarizar un viaje y a vivir experiencias que los haga sentir más vivos. Debido a su inestabilidad laboral que se vive hoy en día deciden aprovechar cada paso que dan con su dinero claramente anteponiendo sus deseos antes que sus objetivos a largo plazo. También se investigo acerca del Modelo de Negocio que le da una idea certera a Laura acerca de la capitalización e ideas de como llevar su proyecto.
+
+## Bibliografía
+https://www.slideshare.net/rogeliou/hablndole-a-millennials-quines-son-los-millennials
+https://ilifebelt.com/millennials-definicion-tipos-usuarios/2016/09/
+/RIAF-V11N2-2018-5%20(3).pdf
+http://empresamundoglobalyadaptacionalcambio.blogspot.com/2011/11/las-claves-del-benchmarking.html
+https://creatibo.arrontesybarrera.com/blog/design-thinking-metodologias-procesos-herramientas
+https://sites.google.com/a/cenidet.edu.mx/canvas/home/recursos-clave
+https://support.google.com/youtube/answer/72857?hl=es-419
+https://sebastianpendino.com/canvas-lienzo-propuesta-de-valor/
+https://careerfoundry.com/en/blog/ux-design/how-to-define-a-user-persona/
+http://ninive.uaslp.mx/jspui/bitstream/i/4158/1/Tesis%20Carlos%20Go%CC%81mez%20Gonza%CC%81lez.pdf
+https://www.economiahoy.mx/emprendedores-eAm-mx/noticias/9386351/09/18/La-mayoria-de-mexicanos-carece-de-educacion-financiera.html
+https://www.brandwatch.com/es/blog/46-estadisticas-youtube/
+http://bibliodigitalibd.senado.gob.mx/bitstream/handle/123456789/4190/CI_53.pdf?sequence=1&isAllowed=y
+https://www.foroconsultivo.org.mx/INCyTU/documentos/Completa/INCYTU_18-018.pdf
+
 
